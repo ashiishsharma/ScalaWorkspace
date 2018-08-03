@@ -1,0 +1,2 @@
+# ScalaWorkspace
+Scala projects
